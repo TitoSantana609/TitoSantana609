@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TitoSantana609
-- 👀 I’m interested in Cybersecurity specializing in red teaming
-- 🌱 I’m currently learning pen testing..no not the clicky kind
+- 👋 Hi, I’m @TitoSantana00
+- 👀 I’m interested in Cybersecurity specializing in Web App pentesting
 - 💞️ I’m looking to collaborate on any special projects that include exploits and other vulnerabilities
 - 📫 How to reach me ... on here or on my twitter @TitoSantana00
 
